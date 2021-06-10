@@ -27,6 +27,10 @@ Make sure to download everything you need from the installation section.
 Download the notebook then run all the cells.  
 
 # Results Summery  
+XYZ firm should invest in Yellow Cab for the following reasons:  
+1- Yellow Cab makes 8 times Pink Cab profits each year.  
+2- Yellow Cab dominates every state both companies operate in profit wise.  
+3- Users who uses both companies makes more transaction with Yellow Cab than Pink Cab, and some of them stop using Pink Cab.  
 
 # Acknowledgment  
 I would like to thank Data Glacier for providing the Dataset and project idea.
